@@ -29,7 +29,7 @@ export class Parking {
             compact: true,
             depth: null
         }) )
-        console.log('\n');
+        console.log('\n\n');
     }
 
     park(size, ent) {//size of the car and entry point
